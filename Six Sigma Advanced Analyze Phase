@@ -1,0 +1,131 @@
+														
+														
+		Hypothesis Testing Graded Quiz												
+														
+			If you want to test the claim that the MTBF of a particular piece of equipment has increased from 1230 operating hours, what would your null hypothesis be?											
+														
+				H0: µ = 1230		 								
+														
+			If your hypothesis test is: H0: µ ≤ 23.6, H1: µ > 23.6, what type of test will you need to do?											
+														
+				Cyclical		 								
+														
+			While performing a hypothesis test, you calculate a p-value of 0.05. If the desired level of significance α = 0.01 then the conclusion is:											
+														
+				Do not reject the null hypothesis because there is a statistical difference.								 		
+														
+			Suppose we have the following hypothesis Z-test: A vendor claims their parts are shipped with a measurement of 1.86 cm. Assume σ = 0.03, n=64, critical values are ±1.96, and we calculate Z=3.6. What would we conclude?											
+														
+				Conclude that 3.6 is outside the critical region, do not reject H0 and state the vendor’s claim is valid.										 
+														
+			For a continuous data, small sample size, calculate the 95% confidence interval for the population mean. Given: Sample size = 16, average of the samples = 12, df=n-1, and the sample standard deviation is 4.											
+														
+				9.869 ≤ µ ≤ 14.131										
+														
+														
+		Design of Experiments- pt 1 Graded Quiz												
+														
+			Which of the following was the origin of Design of Experiments related to?											
+														
+				Agriculture in the 1920s				 						
+														
+			Machine (A,B, or C) and fan speed (high or low) seem to have an impact on the painting process. Setting Machine B to fan speed low is an example of what?											
+														
+				A treatment		Experimental error								
+														
+			Machine (A,B, or C) and fan speed (high or low) seem to have an impact on the painting process. What is an example of a factor for the study?											
+														
+				Fan speed			Paint quality							
+														
+			Suppose you want to study the impact of car age and average speed driven on the tread life of a new brand of tires. What is the outcome you are studying?											
+														
+				Tread life		 		 						
+														
+			Suppose you want to study the impact of car age and average speed driven on the tread life of a new brand of tires. What is an example of a factor level you might study?											
+														
+				Car less than 1 year old			 							
+							 							
+			What is the term for when the effect of one input factor on the output depends on the level of another input factor?											
+														
+				Factors			 							
+														
+			If we are studying the impact of employee shift length on employee errors made in order-picking, what would the dependent variable be?											
+														
+				Errors made in order-picking										
+														
+			Which of the following is NOT a tool for reducing the noise in DOE?											
+														
+				Replication			 							
+														
+			Which of the following in DOE is most closely related to the concept of sample size in hypothesis testing?											
+														
+				Replications		 								
+														
+			Which of the following is a benefit of randomization when compared to repetition?											
+														
+				Randomization allows for the variation due to machine setup to be captured								 		
+														
+			What is the term for designing and organizing the experiment in a way to lessen the effects of special cause variation by grouping the experiments in batches of tests or runs?											
+														
+				Blocking										
+														
+			Put the following 4 steps in the correct order for performing a Design of Experiments:											
+														
+				iii,i,ii,iv										
+														
+														
+														
+		Design of Experiments- pt 2 Graded Quiz												
+														
+			According to the chart above, what is the value for the high level (+) of the factor for hours of sleep?											
+														
+				92.5		 								
+														
+			According to the chart above, what is the main effect of factor A?											
+														
+				22.25										
+														
+			According to the chart above, what would the sign for the interaction (sleepXstudying) term be for run 1?											
+														
+				Negative 		 								
+														
+			According to the chart above, what is the interaction effect for AXB?											
+														
+				3.25		 								
+														
+			Which of the following statements about confounding is true?											
+														
+				Variables are confounded if their effects cannot be separated in the study performed										
+														
+			Which of the following is NOT an assumption for ANOVA?											
+														
+				The means must be the same for all treatments						 				
+														
+			What is the appropriate ratio for testing ANOVA for one factor?											
+														
+				MS treatments divided by MS residual (error)						 				
+														
+			Which test would be most appropriate for testing for differences between 4 population means?											
+														
+				ANOVA		 								
+														
+			In a full factorial experiment with 5 factors at 2 levels each, how many trials are required?											
+														
+				32		 								
+														
+			Which of the following is a good reason for using a fractional factorial experiment rather than full factorial?											
+														
+				Expert opinion is that only the main factors are of concern in this process						You have a large budget for the experiment				
+														
+			If we have 4 levels of 3 factors, with 2 replicates of each combination, how many tests would we have?											
+														
+				128		 								
+														
+			Where does DOE tend to fall in the Six-sigma cycle?											
+														
+				Analyze										
+														
+			When selecting the input variables for DOE, which of the following is NOT a good idea?											
+														
+				Set no more than 3 levels of each factor										
+				 										
