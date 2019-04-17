@@ -1,0 +1,339 @@
+																														
+	Six Sigma Advanced Define and Measure Phases																													
+																														
+		Process Analysis and Documentation Graded Quiz																												
+																														
+			Mapping a process means involving those with the most knowledge of how it works. This would be:																											
+																														
+				workers who use the process																										
+																														
+			The numbering system for procedures is important for what reason?																											
+																														
+				Reference			 																							
+																														
+			Every task must have work instructions.																											
+																														
+				FALSE																										
+																														
+			Work instructions are mostly useful in most types of organizations, not just manufacturing.																											
+																														
+				TRUE																										
+																														
+			Work instructions are often written, but they may be supplemented, or in some cases replaced by other methods																											
+																														
+				TRUE																										
+																														
+			CEDAC is a modified Cause and Effect diagram.																											
+																														
+				TRUE																										
+																														
+			A Cause and Effect Diagram will lead the team to the positive identification of root cause.																											
+																														
+				FALSE																										
+																														
+			CEDAC information should be protected and kept confidential.																											
+																														
+				FALSE																										
+																														
+			A Pareto chart uses only discrete data.																											
+																														
+				TRUE																										
+																														
+			A prioritization matrix provides a quantitative method for making a decision, so you don't have to rely on the judgment of the team.																											
+																														
+				FALSE																										
+																														
+																														
+		Probability and Statistics - pt1 Graded Quiz																												
+																														
+																														
+			What is the term for a collection of outcomes from a probability experiment?																											
+																														
+	NOT THIS 3			Sample space			Probability		Disjoint	 			 																	
+																														
+			Which of the following could NOT be a probability?																											
+																														
+				1.2			 			 		 																		
+																														
+			Suppose the probability of having no defects in the next lot that you sample is 0.05. What is the probability that there WILL be at least one defect in the next lot you sample?																											
+																														
+				0.95			 																							
+																														
+			True or false: The following two events are disjoint/mutually exclusive?																											
+																														
+			Sitting directly to the left of someone on the airplane: whose first name starts with an A; someone whose first name starts with a vowel.																											
+																														
+				FALSE																										
+																														
+			What is the term for two events that cannot occur simultaneously?																											
+																														
+				Intertwined			 	 		 			 																	
+																														
+			True or false: The following two events are independent?																											
+																														
+			Sitting directly to the left of someone on the airplane: whose first name starts with an A; someone whose first name starts with a vowel.																											
+																														
+				FALSE																										
+																														
+			Which formula below is appropriate to use for the addition rule if the two events are not disjoint?																											
+																														
+				P(A and B) = P(A) X P(B|A)				 				 					 													
+																														
+			The probability that the cafeteria is serving pasta for the hot lunch today is 0.2, pizza is 0.3, chicken is 0.1, and soup is 0.4. You like pasta and chicken. What is the probability that you will like lunch today?																											
+																														
+				0.3			 			 		 																		
+																														
+			In your manufacturing plant, 50% of the employees are able to operate the drill press, 70% are able to operate the CNC, and 30% can operate both. What is the probability that an employee can operate the CNC, given that they can operate the drill press? Please round your answer to the nearest hundredth.																											
+																														
+				0.6			 			 																				
+																														
+			Consider a batch of raw materials, containing 5 defective and 20 good items. Suppose that two of the items are quality tested without replacement. What is the probability that both items tested are good? Please round your answer to the nearest hundredth.																											
+																														
+				0.63			 			 																				
+																														
+																														
+		Probability and Statistics - pt2 Graded Quiz																												
+																														
+			How many ways can the letters of the word “Word” be arranged?																											
+																														
+				24		 		 		 																				
+																														
+			If you are going to the grocery store to pick up 3 pints of ice cream for your family and there are 15 choices, how many different groups of 3 pints can you choose? (Assume that you will choose 3 different types without duplication)																											
+																														
+				455		 		 		 																				
+																														
+			When is the variance of the sampling distribution of means equal to the variance of the population from which the samples were drawn divided by the size of the samples?																											
+																														
+				Always							 					 														
+				 																										
+			Which of the following is NOT part of the Central Limit Theorem?																											
+																														
+				All of the above are part of the CLT																										
+				 																										
+			True or false, the central limit theorem tells us that a sample mean is a fair, also called unbiased, estimate of the population mean.																											
+																														
+				TRUE																										
+																														
+			If the population standard deviation is 4 and you have a sample of size 25, what is the standard error?																											
+																														
+				0.4		 		 		 																				
+																														
+			Suppose finish times of employment applications for a temp agency follow a triangular distribution with known standard deviation of 1.5 minutes. You take a sample of size 36 and obtained a mean finish time of 8.2 minutes. What is a 95% confidence interval for the mean finish time?																											
+																														
+				(7.71,8.69)		 																								
+																														
+			You have received a lot of 100 items from your supplies and are going to randomly select 5 of them for quality testing to determine if you will accept the lot. If you find more than 1 defect, you will reject the lot. What is the *sample* in that situation?																											
+																														
+				The 5 items selected for testing			 																							
+																														
+			Suppose some election polling is done to predict the outcome of the presidential election in the state of Georgia. 1000 likely voters are polled. What is the population in that situation?																											
+																														
+				All likely voters in Georgia																										
+																														
+			In a statistical experiment, what does s represent?																											
+																														
+				The sample standard deviation																										
+																														
+			A value, such as the mean, calculated from population data is called a:																											
+																														
+				Parameter			 																							
+																														
+			When performing an analytical study, which of the following would seldom be known?																											
+																														
+				The degrees of freedom				 			 	 			 															
+																														
+																														
+		Statistical Distributions Graded Quiz																												
+																														
+			1. Which of the images below is left-skewed?																											
+																														
+				with the right hump																										
+																														
+			Which of the following is NOT a requirement to model with the binomial distribution?																											
+																														
+				A continuous random variable																										
+																														
+			A recent survey found that 7% of your suppliers are not pleased with the terms of your contracts. If you randomly meet with 10 of your suppliers, what is the probability that at least one of them is one that is not pleased with the terms of the contracts?																											
+																														
+				0.516																										
+																														
+			Which of the following could be modeled with the Poisson distribution?																											
+																														
+				The probability of exactly 1 defect in 200 square meters of fabric																										
+																														
+			The average number of flaws in bolts of fabric that you are producing is 0.36. The standard deviation of this Poisson distribution is…																											
+																														
+				0.64		0.36		0.6		Unable to be determined from the information given																				
+																														
+			Suppose that defects occur at a rate of 0.05 per linear meter in tile trim manufacturing. What is the probability that there are no more than 1 defects in the next 50 linear meters?																											
+																														
+				0.05		2.5		0.29		0.21																				
+																														
+			The tread life of a particular brand of tire is a random variable best described by a normal distribution with mean of 65,000 miles and a standard deviation of 2900 miles. What is the probability that a randomly selected tire will last less than 64,000 miles?																											
+																														
+				0.365		 																								
+																														
+			Suppose the length of time it takes students to complete an exam question follows a normal distribution with a mean of 5.0 minutes and a standard deviation of 1.0 minute. Find the probability that a randomly selected student will take between 2.5 and 4.5 minutes to complete the question.																											
+																														
+				0.302		 																								
+																														
+			Which of the following is a practical use of the Chi-square distribution?																											
+																														
+				Hypothesis tests for one population variance						 																				
+																														
+			Which of the following is an application of the t-distribution?																											
+																														
+				Hypothesis tests for multiple proportions						Hypothesis tests for one mean when the population standard deviation is unknown																				
+																														
+			Which of the following distributions has their axis starting at 0?																											
+																														
+				F																										
+																														
+			Which distribution is not affected by degrees of freedom?																											
+																														
+				Normal			 																							
+																														
+																														
+		Collecting and Summarizing Data Graded Quiz																												
+																														
+			Given the following dataset. Indicate the median.																											
+																														
+				4.5																										
+																														
+			Given the following dataset. Indicate the range.																											
+																														
+				6		 				 																				
+																														
+			Why would you want to randomize your selection of sample data elements?																											
+																														
+				To avoid bias that could affect the study’s outcome							 																			
+																														
+			Ways to graphically display your data is included below, which method does NOT belong?																											
+																														
+				Random Number Table			 																							
+																														
+			Which of the following graphical means shows continuous data?																											
+																														
+				A tally sheet.			 																							
+																														
+			A scatter diagram is used to plot gas mileage versus the weight of a car. What would you expect to see if you placed a line through the data points?																											
+																														
+				No correlation at all, the data points are randomly spaced out.			 																							
+							 																							
+			Calculate Q1 from this dataset: 45, 13, 15, 34, 23, 38, 11																											
+																														
+				14		 																								
+																														
+			Calculate IQR when Q1 = 10, Q2 = 20, and Q3 = 25																											
+																														
+				15		 																								
+																														
+			A Stem-and-Leaf plot will help you indicate the mode of the dataset																											
+																														
+				TRUE																										
+																														
+			Which value does not belong in the calculation of a boxplot?																											
+																														
+				Range			 																							
+																														
+																														
+																														
+		Measuring System Analysis Graded Quiz																												
+																														
+			Before you begin your GR&R Study, the need to calibrate an instrument could be due to:																											
+																														
+				Factors such as humidity, temperature, or wear																										
+																														
+	 		Is it repeatability or reproducibility, when one operator measures the same characteristics of the same products using the same gage?																											
+																														
+				Repeatability																										
+																														
+			Which statement is not a characteristic of a Measurement System?																											
+																														
+				Measurement systems are not considered in quality analysis					 																					
+																														
+	 		Which is not a source of measurement variation?																											
+																														
+				The measuring device itself								 																		
+																														
+	 		What is your criteria to recruit a study “appraiser”?																											
+																														
+				Someone who measures parts during a normal production day.					 																					
+																														
+	 		In a measurement system, what is Repeatability precision?																											
+																														
+				The variation in measurement means when the same gage is used by the same operator										 																
+																														
+			The %GRR of the total variation is 24% and the %GRR of Tolerance is 17.5%, using Average and Range method what conclusion can we draw?																											
+																														
+				The measurement system is acceptable					 	 																				
+																														
+																														
+		Process and Performance Capability Graded Quiz																												
+																														
+			What should you do next after you collect 20-25 sets of part samples in a Process Capability Study?																											
+																														
+				Next, calculate the average for each subset of samples																										
+																														
+			A control chart is used to:																											
+																														
+				Detect non-random variation in processes																										
+																														
+			Your X-bar and R control chart has shown in-control for a long time. You notice that the last 50 samples plotted are all very near the centerline, within 1 sigma. What does this indicate?																											
+																														
+				The process standard deviation has decreased during the last 50 samples							 																			
+																														
+			The six sigma project team is led by a green belt. The current activity is to develop a control plan. Who is best prepared to develop this plan?																											
+																														
+				The green belt																										
+																														
+			For the last 10 samples plotted, your control chart is showing a steady decrease in your plots from within 1 sigma to the LCL. What is happening?																											
+																														
+				A trend is occurring.				 																						
+																														
+			When analyzing process capability, if Cp equals Cpk, what does this indicate?																											
+																														
+				The process is completely out-of-control and not capable				 																						
+																														
+			What is the typical corrective action to take when a control chart shows cyclical signs?																											
+																														
+				Control the physical environment, service equipment, rotate operators, or sharpen tools							 																			
+																														
+			If X-double bar = 32 and R-bar equals 10, what is UCLx-bar? (A2 = 1.02, D4=2.57)																											
+																														
+				42.2		 																								
+																														
+																														
+		Exploratory Data Analysis Graded Quiz																												
+																														
+			Identify the major variation classifications specifically addressed in multi-vari studies?																											
+																														
+				Positional, cyclical, temporal			 		 																					
+																														
+			If you are studying the relationship between the number of hours of overtime assigned at your facility and the number of defects in your product, what would the INDEPENDENT variable be?																											
+																														
+				Hours of overtime assigned					 																					
+																														
+			If a scatter diagram is created plotting vegetable garden square footage vs. crop yield, what would you expect the shape of the resulting plot to show?																											
+																														
+				Positive correlation																										
+																														
+			Which of the following statements are true about correlation?																											
+																														
+				r can range from -1 to 1																										
+																														
+			What is the method used to find the equation of the regression line called?																											
+																														
+				Least squares method				 																						
+																														
+			A scatter plot in which the plotted points are clustered approximately into a straight line from the top left to the bottom right of the graph is displaying which of the following:																											
+																														
+				Negative correlation																										
+																														
+			In the equation for basic linear regression, what does the term “b” represent?																											
+																														
+				The slope of the line																										
+																														
+			You collect sample data to calculate the relationship between age of the manufacturing equipment at your facility and the hours of downtime of that equipment. Using data ranging from 0.5 years old to 20 years old for the equipment, you obtain the regression equation for annual hours of downtime of y=10+0.5x with a high correlation coefficient. How many hours of downtime would you predict for equipment that is 8 years old? (Round to the nearest 10th of a year)																											
+																														
+				14																										
